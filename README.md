@@ -1,5 +1,13 @@
 # ⏰ Cron Expression Builder
 
+
+![GitHub stars](https://img.shields.io/github/stars/Turtles-AI-Lab/cron-expression-builder?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Turtles-AI-Lab/cron-expression-builder?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Turtles-AI-Lab/cron-expression-builder)
+![GitHub license](https://img.shields.io/github/license/Turtles-AI-Lab/cron-expression-builder)
+![GitHub last commit](https://img.shields.io/github/last-commit/Turtles-AI-Lab/cron-expression-builder)
+
+
 Visual cron expression builder and validator for scheduling tasks.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
